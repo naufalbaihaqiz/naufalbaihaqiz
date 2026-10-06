@@ -36,11 +36,11 @@ Learning, building, and exploring new ideas every day ⚡
 
 <div align="center">
 
-![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalbaihaqiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalbaihaqiz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-![Streak](https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true&background=0d1117)
+![Streak](https://streak-stats.demolab.com?user=naufalbaihaqiz&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
