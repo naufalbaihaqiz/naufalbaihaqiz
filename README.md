@@ -51,5 +51,3 @@ Learning, building, and exploring new ideas every day ⚡
 
 </div>
 
-
-gini tapi ada ga desainnya yang lebih gacor
