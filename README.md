@@ -1,14 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Naufal&fontSize=85&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Tech%20%7C%20AI%20%7C%20Builder&descSize=22&descAlignY=60&descColor=ffffff)
+# 💫 Hi There, I'm Naufal! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Naufal+👋;Passionate+about+Tech+%26+AI;Always+learning%2C+always+building+🚀;Let's+create+something+awesome+⚡)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Passionate+about+Tech+%26+AI;Always+learning%2C+always+building+🚀)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=naufalbaihaqiz&label=Profile+Views&color=00f7ff&style=for-the-badge&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/naufalbaihaqiz?style=for-the-badge&logo=github&color=00f7ff&labelColor=0d1117)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-00f7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00f7ff?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -16,22 +12,13 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-
 ```text
-┌──────────────────────────────────────────────┐
-│  > whoami                                    │
-│  Naufal                                      │
-│                                              │
-│  > status                                    │
-│  Learning, building, exploring new ideas ⚡  │
-│                                              │
-│  > mission                                   │
-│  Turn ideas into real projects 🚀            │
-└──────────────────────────────────────────────┘
-```
+> whoami
+Naufal
 
-</div>
+> status
+Learning, building, and exploring new ideas every day ⚡
+```
 
 ---
 
@@ -58,38 +45,11 @@
 
 ---
 
-## 🏆 Trophies
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naufalbaihaqiz&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer)
 
 </div>
 
----
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naufalbaihaqiz&bg_color=0d1117&color=00f7ff&line=00f7ff&point_color=ffffff&area=true&area_color=00f7ff&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/naufalbaihaqiz/naufalbaihaqiz/output/github-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
-
-</div>
+gini tapi ada ga desainnya yang lebih gacor
